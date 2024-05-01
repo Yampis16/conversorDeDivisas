@@ -3,6 +3,7 @@
 ##Funcionalidad
 
 Conversor de divisas mediante el consumo de una API.
+
 ![image](https://github.com/Yampis16/conversorDeDivisas/assets/159665962/5577890c-266f-47b8-b10e-0c1be0bc90ca)
 
 ##Descripción
