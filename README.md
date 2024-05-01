@@ -13,3 +13,4 @@ El conversior funciona mediante el llamado a la API de ExchangeRate usando la fu
 
 Pequeño ejemplo del funcionamiento.
 
+![challengeConversorDeMonedaJuan-–-Main java-2024-05-01-16-58-18](https://github.com/Yampis16/conversorDeDivisas/assets/159665962/52ff0e5e-ed04-48b0-ab83-2abf42e1218b)
